@@ -28,6 +28,9 @@ structure helps to upload more than one file at once to serve as an knowledgebas
 in your code.
 
 # STEP 5: RAG Technology Overview and explanation:
-If you wish to know further about RAG Technology please refer to this link ```bash https://www.cohesity.com/glossary/retrieval-augmented-generation-rag/ ```
+If you wish to know further about RAG Technology please refer to this link:
+ ```bash
+https://www.cohesity.com/glossary/retrieval-augmented-generation-rag/ 
+```
 
 If you have any difficulty regarding any aspects from this project so please feel free to contact me , I will surely help As soon As Possible. Thanks for Visiting This Repo!

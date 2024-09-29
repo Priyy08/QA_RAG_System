@@ -6,12 +6,12 @@ the knowledgebase limitation of LLM because each and every data cannot be traine
 
 # Project Setup:
 
-# STEP 1: CLONING THE REPO OR DIRECTLY DOWNLOADING THE .ipynb notebook
+# STEP 1: Cloning The Repo OR Directly Downloading The .ipynb notebook
 ```bash
  https://github.com/Priyy08/QA_RAG_System.git
 ```
 
-# STEP 2: SETTING UP API KEYS:
+# STEP 2: Setting Up API KEYS:
 To run this Project We have to obtain several API Keys from various platforms so these API KEYS are as follows:
    1) HUGGINGFACE API KEY: Make an account on huggingface.co website and after that go to "settings" and select on "Access Tokens" Option, After that create your own API KEY and allow desired permissions.
    2) PINECONE API: Make an account on pinecone.com and setup your index there and then go to API KEYS Section to Get your API Keys.
@@ -22,7 +22,7 @@ you can change the names of variable according to your needs.
 # STEP 3: Installing all required packages:
 Download or access the requirements.txt file from repo to know all of the packages reuqired to run this notebook.
 
-# STEP 4: USAGE
+# STEP 4: Usage
 This notebook is an demonstration of work of RAG Based System so you can use your own unstructured data to chat with the system. So you have to place your input data into "documents" folders this directory 
 structure helps to upload more than one file at once to serve as an knowledgebase of our LLM. Then run all of the cells one by one and make sure all api keys are properly setted up and have properly configured 
 in your code.
